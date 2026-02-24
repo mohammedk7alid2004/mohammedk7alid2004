@@ -1,44 +1,98 @@
-[cite_start]<h1 align="center">Mohamed Khaled [cite: 1]</h1>
-[cite_start]<h3 align="center">Full Stack .NET Developer </h3>
+<h1 align="center">Mohamed Khaled Farag</h1>
+
+<h3 align="center">
+Full Stack .NET Developer | Clean Architecture Enthusiast
+</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/muhammadkhalidfarag" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/muhammadkhalidfarag">
+    <img src="https://img.shields.io/badge/LinkedIn-Mohamed_Khaled-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:mohammedk7alid2004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### 👨‍💻 Professional Profile
-- [cite_start]Backend Developer with practical experience using .NET technologies and developing RESTful APIs[cite: 6].
-- [cite_start]Skilled in C#, ASP.NET Core, and applying **MVC, SOLID principles, N-Tier architecture, and CQRS** to build scalable, clean, and maintainable backend systems.
-- [cite_start]Experienced in working with databases, designing efficient queries, and structuring backend components following best practices[cite: 8].
+## 🚀 Professional Summary
 
-### 💼 Experience
+Backend-focused Full Stack Developer with strong experience in building scalable and maintainable .NET applications.  
+Passionate about applying SOLID principles, CQRS, and N-Tier Architecture to deliver production-ready systems.
 
-**Backend Developer Intern | [cite_start]Dr.Code** *(12/2025 - Present)* [cite: 14, 15]
-- [cite_start]Contributing to the development of production-ready features[cite: 16, 17].
-- [cite_start]Developing RESTful APIs using C# and ASP.NET Core[cite: 20].
-- [cite_start]Applying SOLID principles and CQRS to build clean and maintainable backend solutions[cite: 21].
+---
 
-**Full Stack .NET Developer | [cite_start]DEPI** *(06/2025 - 12/2025)* [cite: 22, 23, 34]
-- [cite_start]Developed scalable web applications using the .NET stack, applying MVC and N-Tier architecture design patterns[cite: 35].
-- [cite_start]Built and consumed RESTful APIs using ASP.NET Web API[cite: 36].
-- [cite_start]Developed responsive and interactive web interfaces using Angular, applying component-based architecture[cite: 24].
+## 🛠 Technical Skills
 
-### 🛠️ Core Competencies & Technologies
+### 👨‍💻 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
-- [cite_start]**Languages:** C#, SQL, JavaScript, C++, Python[cite: 47].
-- [cite_start]**Frameworks:** .NET, ASP.NET Core, Angular[cite: 47].
-- [cite_start]**Databases:** SQL Server[cite: 47].
-- [cite_start]**Architecture & Patterns:** CQRS, SOLID, MVC, N-Tier.
-- [cite_start]**Key Concepts:** RESTful APIs, Hangfire, Caching, Rate Limiting, Pagination[cite: 38].
+---
 
-### 🚀 Featured Projects
+### ⚙ Backend & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ASP.NET_Core-0A66C2?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Web_API-008080?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Entity_Framework-68217A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Hangfire-FF6600?style=for-the-badge"/>
+</p>
 
-- [cite_start]**[SurveyBasket](https://github.com/mohammedk7alid2004/SurveyBasket1):** Developed a user-friendly survey platform allowing users to vote on active polls, submit answers, and receive daily email reminders[cite: 41]. [cite_start]Built with ASP.NET, SQL, Hangfire, Caching, Rate Limiter, and Pagination[cite: 38].
-- [cite_start]**[Newbee](https://github.com/sherifdahy/Newbee-Project):** A centralized platform that connects and integrates multiple e-commerce platforms with shipping providers through a single interface[cite: 45]. [cite_start]Built with C#, ASP.NET Web API, and Angular[cite: 44].
-- [cite_start]**[FitMe](https://github.com/mohammedk7alid2004/FitMe):** Developed a scalable eCommerce API using ASP.NET Core with features like Google login, OTP verification, and performance optimization[cite: 43]. [cite_start]Built with C#, SQL Server, Caching, and Pagination[cite: 42].
+---
+
+### 🧠 Architecture & Concepts
+- Clean Architecture  
+- SOLID Principles  
+- CQRS Pattern  
+- N-Tier Architecture  
+- RESTful API Design  
+- Caching & Performance Optimization  
+- Rate Limiting & Pagination  
+
+---
+
+## 💼 Experience
+
+### Backend Developer Intern — Dr.Code (2025 – Present)
+- Building scalable RESTful APIs using ASP.NET Core.
+- Applying CQRS & SOLID for clean, maintainable systems.
+- Optimizing application performance.
+
+### Full Stack .NET Developer — DEPI (2025)
+- Developed scalable applications using .NET MVC.
+- Built and consumed REST APIs.
+- Developed interactive UI using Angular.
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 SurveyBasket
+Survey platform with voting system, caching, background jobs & rate limiting.
+
+### 🔹 Newbee
+Centralized system integrating e-commerce platforms with shipping providers.
+
+### 🔹 FitMe
+Scalable eCommerce API with OTP authentication & Google login.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamedkhaled21&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedkhaled21&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+---
+
+<p align="center">
+  ⚡ Building Scalable Systems with Clean Code
+</p>

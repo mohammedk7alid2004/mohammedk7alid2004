@@ -1,7 +1,7 @@
 <h1 align="center">Mohamed Khaled Farag</h1>
 
 <h3 align="center">
-Full Stack .NET Developer | Clean Architecture Enthusiast
+Full Stack .NET Developer 
 </h3>
 
 <p align="center">
